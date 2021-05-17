@@ -2,7 +2,7 @@ Para poder rodar o backend
 
 Entrar na pasta back, colocar o arquivo .env que foi anexado no e-mail e digitar o comando npm install
 
-Para poder exectuar o frontend
+Para poder executar o frontend
 
 Basta digitar o comando npm install e depois ng serve
 
