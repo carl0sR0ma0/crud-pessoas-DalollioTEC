@@ -1,0 +1,21 @@
+.container {
+  padding-top: 16px;
+}
+
+.row .form-element {
+  padding: 5px 0px 25px 15px;
+}
+
+.expand {
+  width: 590px;
+  padding: 5px 0px 25px 15px;
+}
+
+.form-element button {
+  margin: 0px 0px 0px 15px;
+}
+
+.btn-salvar {
+  background-color: #1b9c1b;
+  color: #fff;
+}

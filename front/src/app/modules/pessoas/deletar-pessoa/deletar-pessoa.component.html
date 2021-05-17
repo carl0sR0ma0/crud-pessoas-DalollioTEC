@@ -1,0 +1,10 @@
+<div *ngIf="pessoa" class="row">
+  <span class="mat-h2">Deseja apagar {{pessoa.nome}}??? A ação é irreversível!</span>
+</div>
+<br>
+<br>
+<div class="row">
+  <button mat-flat-button color="primary" (click)="excluirPessoa()">Sim</button>
+  &nbsp;
+  <button mat-flat-button color="warn" (click)="no()">Não</button>
+</div>
