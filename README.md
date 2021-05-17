@@ -1,3 +1,11 @@
+Para poder rodar o backend
+
+Entrar na pasta back, colocar o arquivo .env que foi anexado no e-mail e digitar o comando npm install
+
+Para poder exectuar o frontend
+
+Basta digitar o comando npm install e depois ng serve
+
 # Front
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
